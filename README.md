@@ -1,2 +1,2 @@
 # landpage
-Repo of Landpage of Alme Mater
+Repo of Landing page of Alme Mater
