@@ -1,2 +1,2 @@
 # landpage
-Resp is of Landpage of Alme Mater
+Repo of Landpage of Alme Mater
